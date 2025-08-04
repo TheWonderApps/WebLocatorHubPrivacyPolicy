@@ -1,0 +1,2 @@
+# WebLocatorHubPrivacyPolicy
+Privacy Policy Page
