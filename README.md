@@ -1,16 +1,16 @@
-# 🎯 Privacy Policy - WebLocatorHub Chrome Extension
+# 🎯 Privacy Policy - WebElement Inspector Chrome Extension
 
-**Last Updated:** August 5, 2025
+**Last Updated:** August 11, 2025
 
-## About WebLocatorHub
+## About WebElement Inspector
 
-WebLocatorHub is a developer tool extension that helps web developers and QA engineers inspect DOM elements and generate precise locators for automation testing frameworks like Playwright, Selenium, and Cypress.
+WebElement Inspector is a developer tool extension that helps web developers and QA engineers inspect DOM elements and generate precise locators for automation testing frameworks like Playwright, Selenium, and Cypress.
 
 ---
 
 ## 🔒 Privacy Summary
 
-**WebLocatorHub operates entirely locally within your browser. We do not collect, store, or transmit any personal data, browsing history, or website content to external servers.**
+**WebElement Inspector operates entirely locally within your browser. We do not collect, store, or transmit any personal data, browsing history, or website content to external servers.**
 
 ---
 
@@ -50,7 +50,7 @@ All data processing happens locally within your browser:
 
 **We do not share, sell, rent, or disclose any data to third parties because we don't collect any data to share.**
 
-Since WebLocatorHub operates entirely locally:
+Since WebElement Inspector operates entirely locally:
 
 - No data is transmitted to external servers
 - No third-party services are used
@@ -61,7 +61,7 @@ Since WebLocatorHub operates entirely locally:
 
 ### 4.1 Required Permissions
 
-WebLocatorHub requests the following permissions for core functionality:
+WebElement Inspector requests the following permissions for core functionality:
 
 - **activeTab:** Access the currently active tab to inspect DOM elements when you explicitly activate the extension
 - **storage:** Store your settings and preferences locally in your browser
@@ -96,7 +96,7 @@ Local settings and preferences are retained until:
 
 ## 7. Children's Privacy
 
-WebLocatorHub is designed for web developers and QA professionals. We do not knowingly collect information from children under 13. Since we don't collect any personal information, this extension is safe for users of all ages.
+WebElement Inspector is designed for web developers and QA professionals. We do not knowingly collect information from children under 13. Since we don't collect any personal information, this extension is safe for users of all ages.
 
 ## 8. Changes to Privacy Policy
 
@@ -120,7 +120,7 @@ This privacy policy is designed to comply with:
 
 ## 📧 Contact Us
 
-If you have questions about this Privacy Policy or WebLocatorHub's privacy practices, please contact us:
+If you have questions about this Privacy Policy or WebElement Inspector's privacy practices, please contact us:
 
 - **GitHub:** [TheWonderApps/FindMyWebElement](https://github.com/TheWonderApps/FindMyWebElement)
 - **Email:** thewonderapps@gmail.com
@@ -130,6 +130,6 @@ If you have questions about this Privacy Policy or WebLocatorHub's privacy pract
 
 ## Footer
 
-© 2025 WebLocatorHub. This extension is open source and community-driven.
+© 2025 WebElement Inspector. This extension is open source and community-driven.
 
 **Privacy Policy version 1.0** - Effective August 5, 2025
